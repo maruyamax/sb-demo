@@ -13,4 +13,8 @@ const config: StorybookConfig = {
   staticDirs: ['./static'],
 };
 
+module.exports = {
+  outputDir: 'storybook-static',
+};
+
 export default config;
