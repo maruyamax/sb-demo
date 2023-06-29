@@ -31,3 +31,7 @@ const preview: Preview = {
 }
 
 export default preview;
+
+const config = {
+  outputDir: 'storybook-static',
+};
